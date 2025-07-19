@@ -1,0 +1,17 @@
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.c
+ov_watch_self\lv_bidi.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stddef.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ov_watch_self\lv_bidi.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdint.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+ov_watch_self\lv_bidi.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdbool.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_txt.h
+ov_watch_self\lv_bidi.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdarg.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_area.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+ov_watch_self\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+ov_watch_self\lv_bidi.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\string.h

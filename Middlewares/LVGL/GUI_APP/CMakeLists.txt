@@ -1,0 +1,9 @@
+SET(SOURCES screens/ui_Homepage.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    fonts/ui_font_Alibaba16.c
+    fonts/ui_font_Alibaba32.c
+    fonts/ui_font_iconfont32.c)
+
+add_library(ui ${SOURCES})

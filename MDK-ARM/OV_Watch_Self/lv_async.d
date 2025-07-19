@@ -1,0 +1,12 @@
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.c
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+ov_watch_self\lv_async.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdint.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+ov_watch_self\lv_async.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stddef.h
+ov_watch_self\lv_async.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\string.h
+ov_watch_self\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_timer.h
+ov_watch_self\lv_async.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdbool.h

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cst816.h": "c",
+        "delay.h": "c",
+        "spi.h": "c",
+        "tim.h": "c"
+    }
+}

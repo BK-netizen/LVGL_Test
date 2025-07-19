@@ -1,0 +1,13 @@
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_color.c
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_color.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ov_watch_self\lv_color.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdint.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+ov_watch_self\lv_color.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stddef.h
+ov_watch_self\lv_color.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\string.h
+ov_watch_self\lv_color.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_math.h

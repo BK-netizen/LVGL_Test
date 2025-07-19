@@ -1,0 +1,9 @@
+ov_watch_self\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\assert.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\limits.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdlib.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\string.h
+ov_watch_self\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdbool.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stddef.h
+ov_watch_self\qrcodegen.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdint.h

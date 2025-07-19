@@ -1,0 +1,16 @@
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.c
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.h
+ov_watch_self\gifdec.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdint.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+ov_watch_self\gifdec.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stdbool.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+ov_watch_self\gifdec.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\stddef.h
+ov_watch_self\gifdec.o: D:\GEEK\ruanjian\KEIL\ARM\ARMCC\include\string.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+ov_watch_self\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_math.h
